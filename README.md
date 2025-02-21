@@ -1,0 +1,1 @@
+The project was to implement EDF scheduler in freeRTOS core code and use it to operate six tasks. the first two tasks to detect the rising and falling edges of two push button, the third was to transmit periodic messages to UART, the fourth was the UART, another two tasks were added to overload the system and test the schedulability.
